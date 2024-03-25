@@ -1,3 +1,7 @@
+#Generating numbers with a vanilla GAN
+#Training set: MNIST
+#Architecture inspired by Coursera's GAN Tutorial
+
 import torch
 #Pytorch framework
 from torch import nn
