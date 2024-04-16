@@ -1,6 +1,6 @@
 #Generating numbers with a vanilla GAN
 #Training set: MNIST
-#Architecture inspired by Coursera's GAN Tutorial
+#Architecture inspired by Coursera's GAN Tutorial: Week 2 (Improving Basic GANs)
 
 import torch
 #Pytorch framework
